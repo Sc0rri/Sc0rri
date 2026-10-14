@@ -4,7 +4,7 @@
 
 Senior Backend Engineer with **10+ years of commercial experience** architecting and building high-performance web applications, scalable REST APIs, and asynchronous data processing systems.
 
-- 🔭 **Core Tech Stack:** Modern PHP (8.4+), Go, Laravel, Yii2, PostgreSQL, MySQL/MariaDB, Redis.
+- 🔭 **Core Tech Stack:** Modern PHP (8+), Go, Laravel, Yii2, PostgreSQL, MySQL/MariaDB, Redis.
 - ⚡ **Key Expertise:** Designing REST API engines from scratch (75+ endpoints), real-time WebSockets streaming, asynchronous queues (Redis), and migrating performance-critical services from PHP/Laravel to Go.
 - 📐 **Architecture:** DDD, SOLID.
 - 🎓 **Education:** Dnipro National University — Specialist Degree in Applied Mathematics (2006–2011).
