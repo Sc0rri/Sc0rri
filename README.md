@@ -1,6 +1,6 @@
 # Hi there, I'm Alex Puschev (`Sc0rri`) 👋
 
-### 👨‍💻 Senior Backend Engineer | PHP 8.4+ • Go • High-Load APIs • Distributed Systems
+### 👨‍💻 Backend Engineer | PHP 8+ • Go • High-Load APIs • Distributed Systems
 
 Senior Backend Engineer with **10+ years of commercial experience** architecting and building high-performance web applications, scalable REST APIs, and asynchronous data processing systems.
 
